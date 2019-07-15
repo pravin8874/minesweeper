@@ -1,4 +1,4 @@
-#MINESWEEPER
+# MINESWEEPER
 
 - Install all dependency
   `yarn install` or `npm install`
@@ -32,7 +32,7 @@
   Insert element of matrix a[2][5] 0
   ================================
   ```
-  - Show output like this
+- Show output like this
   ```html
   ================================
   0  1  2  3  4  5
