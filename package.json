@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minesweeper.js",
+  "scripts": {
+    "start": "node minesweeper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "p-readline": "^1.1.1"
+  }
+}
